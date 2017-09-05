@@ -15,6 +15,8 @@ Instructions:
 
 3.  import https://github.com/hzdavid/springtest-enhancer-demo.git into your ide Eclipe/IDEA .
 
+and run test program  HelloWorldTest.java
+
 4.  if you add property loader to  ContextConfiguration
 
 @ContextConfiguration(locations = { "./applicationContext.xml" }, loader = SpringTestEnhancerContextLoader.class)
@@ -50,6 +52,8 @@ If you have some problems or suggestions, you can send mail to me at hzdavid2009
 2.  mvn install
 
 3.  把demo工程 https://github.com/hzdavid/springtest-enhancer-demo.git 导入到你的开发工具，如  Eclipe/IDEA .
+
+运行测试程序  HelloWorldTest.java
 
 4.  如果你给ContextConfiguration添加了属性 loader = SpringTestEnhancerContextLoader.class
 
