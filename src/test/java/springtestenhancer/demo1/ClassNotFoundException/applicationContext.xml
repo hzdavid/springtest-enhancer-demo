@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	 
+	<!-- this bean class is not configured properly -->
+	<bean id="orderDAOService" class="springtestenhancer.demo.bean.OrderDAOService1" init-method="init" >
+		  
+	</bean>
+
+	<bean id="helloWorld" class="springtestenhancer.demo.bean.HelloWorld" />
+
+
+</beans>
