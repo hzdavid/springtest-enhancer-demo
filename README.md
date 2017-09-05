@@ -12,6 +12,7 @@ Instructions:
 1.  git clone https://github.com/hzdavid/springtest-enhancer.git
 
 2.  mvn install
+   or mvn install deploy (if you have your own maven repository)
 
 3.  import https://github.com/hzdavid/springtest-enhancer-demo.git into your ide Eclipe/IDEA .
 
