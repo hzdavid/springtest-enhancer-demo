@@ -25,7 +25,7 @@ and run test program  HelloWorldTest.java
 
 the test program is successful to run .
 
-5.  Otherwise, if your remove property loader of  ContextConfiguration
+5.  Otherwise, if your remove property loader of  ContextConfiguration    
 	@ContextConfiguration(locations = { "./applicationContext.xml" })
 
 the test program is failed to run.
