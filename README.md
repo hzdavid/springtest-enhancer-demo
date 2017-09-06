@@ -53,7 +53,7 @@ In Chinese:
 
 1.  git clone https://github.com/hzdavid/springtest-enhancer.git
 
-2.   cd springtest-enhancer
+2.   cd springtest-enhancer    
     mvn install     
     或者 mvn install deploy (如果你想发布自己到的远程仓库)
 
