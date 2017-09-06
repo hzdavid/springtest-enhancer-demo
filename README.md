@@ -54,7 +54,8 @@ In Chinese:
 1.  git clone https://github.com/hzdavid/springtest-enhancer.git
 
 2.   cd springtest-enhancer
-    mvn install  或者 mvn install deploy (如果你想发布自己的远程仓库)
+    mvn install     
+    或者 mvn install deploy (如果你想发布自己的远程仓库)
 
 3.  把demo工程 https://github.com/hzdavid/springtest-enhancer-demo.git 导入到你的开发工具，如  Eclipe/IDEA .
 
