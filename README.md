@@ -61,7 +61,7 @@ In Chinese:
 
 运行测试程序  HelloWorldTest.java
 
-4.  如果你给ContextConfiguration添加了属性 loader = SpringTestEnhancerContextLoader.class
+4.  如果你给ContextConfiguration添加了属性 loader = SpringTestEnhancerContextLoader.class   
 
 	@ContextConfiguration(locations = { "./applicationContext.xml" }, loader = SpringTestEnhancerContextLoader.class)
 
